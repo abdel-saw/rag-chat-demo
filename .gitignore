@@ -1,0 +1,28 @@
+# Environnements virtuels
+venv/
+.env/
+.env.local
+
+# Données
+data/
+chroma_db/
+*.pdf
+*.docx
+*.txt
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.mp4
+*.avi
